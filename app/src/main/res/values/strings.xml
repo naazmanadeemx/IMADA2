@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IMAD_A2</string>
+    <string name="get_started_text">GET STARTED</string>
+    <string name="say_hello_text">Say Hello to Ichiro</string>
+    <string name="virtual_pet">Your Virtual Pet</string>
+    <string name="welcome">WELCOME</string>
+    <string name="virtual_pet_image_description">Image of your virtual pet</string>
+    <string name="started_button"></string>
+</resources>
